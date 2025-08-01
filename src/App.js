@@ -66,6 +66,7 @@ export default function App() {
   return (
     <div className="app">
       <div className="sidebar">
+        <h2 style={{ color: "#e00d3a" }}>Split the Bill</h2>
         <FriendsList
           friends={friends}
           selectedFriend={selectedFriend}
