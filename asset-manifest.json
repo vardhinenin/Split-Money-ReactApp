@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Split-Money-ReactApp/static/css/main.f38a3276.css",
-    "main.js": "/Split-Money-ReactApp/static/js/main.650ada95.js",
+    "main.js": "/Split-Money-ReactApp/static/js/main.a3753ee8.js",
     "index.html": "/Split-Money-ReactApp/index.html",
     "main.f38a3276.css.map": "/Split-Money-ReactApp/static/css/main.f38a3276.css.map",
-    "main.650ada95.js.map": "/Split-Money-ReactApp/static/js/main.650ada95.js.map"
+    "main.a3753ee8.js.map": "/Split-Money-ReactApp/static/js/main.a3753ee8.js.map"
   },
   "entrypoints": [
     "static/css/main.f38a3276.css",
-    "static/js/main.650ada95.js"
+    "static/js/main.a3753ee8.js"
   ]
 }
